@@ -1,0 +1,9 @@
+{
+  "name" : "forrest.io",
+  "version" : "0.0.1",
+  "devDependencies" : {
+    "grunt" : "0.3.17",
+    "cucumber" : "*",
+    "grunt-cucumber" : "*"
+  }
+}
